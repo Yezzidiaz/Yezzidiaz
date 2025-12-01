@@ -1,25 +1,25 @@
 ## Hi there 👋 I´m Yessid Diaz
 
-📊 Administrador financiero especializada en Recursos Humanos con más de 9 años de experiencia en gestión del talento. Experto en administración de nómina para más de 500 empleados, compensación, programas de capacitación y desarrollo.
+Financial Administrator specialized in Human Resources with over 9 years of experience in talent management. Expert in payroll administration for over 500 employees, compensation, training, and development programs.
 
-🎯 Misión: Optimizar el talento mediante decisiones basadas en datos.
-He liderado procesos de RRHH y coordinado equipos para alcanzar objetivos organizacionales. Implementé estrategias que redujeron la rotación de personal en un 40% y aumentaron los reembolsos por incapacidades en un 70% respecto a años anteriores.
+🎯 Mission: Optimize talent through data-driven decisions.
+I have led HR processes and coordinated teams to achieve organizational goals. I implemented strategies that reduced employee turnover by 40% and increased disability claim reimbursements by 70% compared to previous years.
 
-💼 Experiencia y habilidades:
+💼 Experience and Skills:
 
-- Análisis de nómina, desempeño y beneficios, con reporte y visualización de indicadores clave para la toma de decisiones estratégicas.
-- Desarrollo de dashboards y reportes interactivos para medir productividad, ausentismo, eficiencia y cumplimiento de normas.
-- Optimización de procesos administrativos y de recursos humanos, aumentando eficiencia y precisión en la gestión del personal.
-- Actualmente certificado en Análisis de Datos, fortaleciendo habilidades en SQL, Python, R, Power BI y Tableau.
-- Competencias adicionales: liderazgo, comunicación efectiva, pensamiento crítico, toma de decisiones basada en datos, trabajo en equipo y orientación a resultados.
+- Payroll, performance, and benefits analysis, with reporting and visualization of key indicators to support strategic decision-making.
+- Development of interactive dashboards and reports to monitor productivity, absenteeism, efficiency, and compliance.
+- Optimization of administrative and HR processes, enhancing efficiency and accuracy in personnel management.
+- Currently certified in Data Analysis, strengthening skills in SQL, Python, R, Power BI, and Tableau.
+- Additional competencies: leadership, effective communication, critical thinking, data-driven decision-making, teamwork, and results orientation.
 
-🏅 Logros destacados:
+🏅 Key Achievements:
 
-- Reducción de la rotación de personal en un 40% mediante análisis de desempeño y estrategias de retención.
-- Incremento del 70% en reembolsos por incapacidades gracias a procesos optimizados y seguimiento analítico.
-- Implementación de dashboards para monitoreo de nómina, ausentismo y eficiencia operativa, mejorando la precisión y eficiencia de los reportes.
+- Reduced employee turnover by 40% through performance analysis and retention strategies.
+- Increased disability claim reimbursements by 70% through optimized processes and analytical tracking.
+- Implemented dashboards to monitor payroll, absenteeism, and operational efficiency, improving reporting accuracy and efficiency.
 
-🚀 Soy adaptable, bilingüe y comprometido con el desarrollo profesional continuo. Apasionado por transformar datos en decisiones estratégicas y maximizar el valor del talento dentro de las organizaciones.
+🚀 Adaptable, bilingual, and committed to continuous professional development. Passionate about transforming data into strategic decisions and maximizing talent value within organizations.
 
 Here are some ideas to get you started:
 
