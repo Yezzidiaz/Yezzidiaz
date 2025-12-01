@@ -1,4 +1,4 @@
-## Hi there 👋 I´m Yessid Diaz
+## Hi there 👋 I'm Yessid Diaz
 
 Financial Administrator specialized in Human Resources with over 9 years of experience in talent management. Expert in payroll administration for over 500 employees, compensation, training, and development programs.
 
